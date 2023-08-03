@@ -23,7 +23,7 @@ spec:
       location:
         path: "/v3/api-docs"
       system: tutorials
-      owner: cop-tat
+      owner: cop-tap
       description: "A set of API endpoints."
   source:
     git:
